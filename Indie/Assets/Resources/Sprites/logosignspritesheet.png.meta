@@ -1,0 +1,1082 @@
+fileFormatVersion: 2
+guid: 0df911448f2a4d04cbbb21cef6ffa739
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: logosignspritesheet_0
+    21300002: logosignspritesheet_1
+    21300004: logosignspritesheet_2
+    21300006: logosignspritesheet_3
+    21300008: logosignspritesheet_4
+    21300010: logosignspritesheet_5
+    21300012: logosignspritesheet_6
+    21300014: logosignspritesheet_7
+    21300016: logosignspritesheet_8
+    21300018: logosignspritesheet_9
+    21300020: logosignspritesheet_10
+    21300022: logosignspritesheet_11
+    21300024: logosignspritesheet_12
+    21300026: logosignspritesheet_13
+    21300028: logosignspritesheet_14
+    21300030: logosignspritesheet_15
+    21300032: logosignspritesheet_16
+    21300034: logosignspritesheet_17
+    21300036: logosignspritesheet_18
+    21300038: logosignspritesheet_19
+    21300040: logosignspritesheet_20
+    21300042: logosignspritesheet_21
+    21300044: logosignspritesheet_22
+    21300046: logosignspritesheet_23
+    21300048: logosignspritesheet_24
+    21300050: logosignspritesheet_25
+    21300052: logosignspritesheet_26
+    21300054: logosignspritesheet_27
+    21300056: logosignspritesheet_28
+    21300058: logosignspritesheet_29
+    21300060: logosignspritesheet_30
+    21300062: logosignspritesheet_31
+    21300064: logosignspritesheet_32
+    21300066: logosignspritesheet_33
+    21300068: logosignspritesheet_34
+    21300070: logosignspritesheet_35
+    21300072: logosignspritesheet_36
+    21300074: logosignspritesheet_37
+    21300076: logosignspritesheet_38
+    21300078: logosignspritesheet_39
+    21300080: logosignspritesheet_40
+    21300082: logosignspritesheet_41
+    21300084: logosignspritesheet_42
+    21300086: logosignspritesheet_43
+    21300088: logosignspritesheet_44
+    21300090: logosignspritesheet_45
+    21300092: logosignspritesheet_46
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logosignspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3038
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbce409086ec524d9a9f83cd2359bae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3038
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c019131812c844ab071bfcd90429e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 3038
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babc443fccf7aae4b83c4ca051777ec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3038
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9867c9939ffec78419fc50a109ebc398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 3038
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b3939b70cf2e045a8f2c5fc960225b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 3038
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7385b95f38d479349a8c424829bde744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 3038
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0664e3dce8fcca42a0bb8c5b0c4547a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2532
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3369d06389f3b1478bc7d5e631a4563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2532
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989db1684f9e0a4e84d29960948ebdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2532
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28770cd238423db45907aade00d17361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2532
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce272ab7a68f774cbef2b135dba459a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2532
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb43983213d13449b2c2df47dbc2320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 2532
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17a6b196ac0e1043aa4734a4d2f8871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 2532
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867e059604532e84cbc11b3dfa7487e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2026
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f8450ca6133e44baadc1d86b1bc52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2026
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679916841798dde4fa8c664c5eab34a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2026
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b4e70afb3777e4088d54a5b12cb978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2026
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9736a27588e2b445af5aaa53298b469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2026
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f351cf039e1250e4fb91d6c2a7dc5bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 2026
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d545d4cd04553745982b0c1648e1811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 2026
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddae9dacb713274e8e9a21065b403fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de08cd1f9f27e0342875d81d9f09bfaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1520
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cde904dbcb5e64388a848fdb146ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1520
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52ed4c2882917c4387a6f081ec63f7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1520
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e7662e9fa83914c908bff8db8ec657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1520
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401fc8f8256c4fe4aad58bfa88d83c93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1520
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4619457240f45f4598290fed9db3039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 1520
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d54be54db3d541b27a88c6898de11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413e56d242456a45aad2b8e63a68b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1014
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b32a9897d548d48adbe028b0eba86f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1014
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61d28f7155d36e4ea2a59fa1abce6c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1014
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2145a64c2d331f64c91b89a099c77ecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1014
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f573282bd2a9acb47a75eca76b199b0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1014
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af3ddf060919a84ea308dbce340213d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 1014
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4476da15416e06b469d6cfa4b1aded4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f93d9a115048c047a327510fd5a87c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 508
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35288d3ca49470549b480e9590a94a81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 508
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea52c2c79208d6940bd5788b3552d07d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 508
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fa75d2feb90bd45a41beef8e497ddf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 508
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c1953e8998a614b8460b9dfee09568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 508
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc65cd97017b0041b26f02f67e5fd30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 508
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a22093a21dbac479567fd195008cf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6053e9d010e3c64a8925675bf17145f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ad1b54808f7f44c9e423eea995e0eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c279dd9d5682b4a97aebbd584fbb82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c07fb6e2a3cb14199754cf05d31901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logosignspritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef63188776f29a4e82c931189998af1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa90b1cb2a0799e45906e8e819416c2f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

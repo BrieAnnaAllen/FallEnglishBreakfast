@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - P2LT
+  - P2RT
+  - P2List
+  - P1List
+  - Goal
+  - P1RT
+  - P1LT
+  - FoodGoal
+  - FinalGoal
+  - Floor
+  - P1ScoreText
+  - P2ScoreText
+  - Undefined
+  - toast
+  - ham
+  - onion
+  - egg
+  - cheese
+  - bellpepper
+  - bacon
+  - Customer
+  - ScoreManager
+  - SpawnManager
+  - P1Notification
+  - P2Notification
+  - whipped
+  - waffle
+  - milk
+  - cereal
+  - banana
+  - cream
+  - blueberries
+  - pancake
+  - syrup
+  - bagel
+  - P1PlateObject
+  - P2PlateObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
