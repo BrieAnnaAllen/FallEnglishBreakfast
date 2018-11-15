@@ -103,10 +103,6 @@ public class DetectFoodType : MonoBehaviour
             ChooseRandomFood cRF = CurrentFoodGoal.GetComponent<ChooseRandomFood>();
             currentGoal = cRF.currentGoal;
             children = new List<GameObject>();
-            // SpriteRenderer r = CurrentFoodGoal.GetComponentInChildren<SpriteRenderer>();
-            //Sprite currentGoalSprite = currentGoal.GetComponentInChildren<Sprite>();
-            // currentGoalSprite = r.sprite;
-            //List<Transform> childrenT = new List<Transform>();
             foreach (Transform child in currentGoal.transform)
             {
                 children.Add(child.gameObject);
@@ -125,7 +121,6 @@ public class DetectFoodType : MonoBehaviour
             {
                 animPlayer1.SetBool("FlipR", true);
                 Flip();
-                // Debug.Log(this.gameObject.name + "Register Input");
             }
         }
         else
@@ -134,7 +129,6 @@ public class DetectFoodType : MonoBehaviour
             {
                 animPlayer2.SetBool("FlipB", true);
                 Flip();
-                //Debug.Log(this.gameObject.name + "Register Input");
             }
         }
         //set current goal as the current goal.  Populates children of current goal
@@ -196,7 +190,6 @@ public class DetectFoodType : MonoBehaviour
         plateObjects.Add(Dubious[0]);
         for (int i = 0; i < plateObjects.Count; i++)
         {
-            Debug.Log(plateObjects[i]);
         }
     }
 
@@ -242,12 +235,6 @@ public class DetectFoodType : MonoBehaviour
             }
             
         }
-        /*if((FinishedRound ==  3) && (!wrongFood))
-        {
-            //NotificationBox.GetComponent<SpriteRenderer>().sprite = returnNotificationSprite("Trash_0");
-            //Debug.Log("ThisCodeIsRunning");
-           
-        }*/
         return FinishedRound;
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -255,7 +242,7 @@ public class DetectFoodType : MonoBehaviour
         if (collision.gameObject.tag == "FinalGoal")
         {
             int FinishedRound = AllThreeIngredients();
-                if (FinishedRound == 3)
+                if (FinishedRound == 3 && !wrongFood)
                 {
 
                 ScoreManager sm = GameObject.FindGameObjectWithTag("ScoreManager").GetComponent<ScoreManager>();

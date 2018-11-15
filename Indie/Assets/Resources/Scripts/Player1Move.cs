@@ -28,18 +28,6 @@ public class Player1Move : MonoBehaviour
 
     Vector2 currentPosition;
 
-    /*void Start()
-    {
-        rb2d = GetComponent<Rigidbody2D>();
-        Physics2D.IgnoreCollision(GetComponent<BoxCollider2D>(), player.GetComponent<BoxCollider2D>());
-
-        //spriteRenderer = GetComponent<SpriteRenderer>();
-        anim = GetComponent<Animator>();
-        spriteRender = GetComponent<SpriteRenderer>();
-
-        Player1Detect = this.gameObject.GetComponent<DetectFoodType>();
-        Debug.Log(this.gameObject.name + Stunned1);
-    }*/
 
     private void OnEnable()
     {
